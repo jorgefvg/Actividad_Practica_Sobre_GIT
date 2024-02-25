@@ -1,9 +1,11 @@
-Linea de texto 1, archivo 2.
+Cambios en la version.
 
-Linea de texto 2, archivo 2.
+Linea 2 de archivo 2.
 
-Linea de texto 3, archivo 2.
+Linea 3 de archivo 2.
 
-Linea de texto 4, archivo 2.
+Linea 4 de archivo 2.
 
-Linea de texto 5, archivo 2.
+Linea 5 de archivo 2.
+
+Ultima linea agregada.
